@@ -1,6 +1,6 @@
 # terracota-p.github.io
 
-Personal webpage.
+Personal webpage at <https://terracota-p.github.io/>.
 
 ## Run locally
 
@@ -8,7 +8,7 @@ Personal webpage.
 bundle exec jekyll serve
 ```
 
-Browse http://127.0.0.1:4000
+Browse <http://127.0.0.1:4000>
 
 ## Deploy
 
