@@ -10,4 +10,4 @@ This is my personal page about software engineering.
 Contents:
 
 - My personal experience.
-- Tech notes, practices, solutions that have been of good use to me, and I want to share just in case someone can benefit from.
+- Tech notes, practices, solutions that have been of good use to me, that I want to share.
