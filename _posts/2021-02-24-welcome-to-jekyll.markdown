@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Terracota blog entry"
+title:  "A blog entry"
 date:   2021-02-24 17:54:49 +0100
 categories: jekyll update
 ---

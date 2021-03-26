@@ -57,6 +57,6 @@ plugins:
 #   - vendor/ruby/
 
 header_pages:
-  - projects.markdown
-  - cv.markdown
-  - about.markdown
+  - projects.md
+  - cv.md
+  - about.md
