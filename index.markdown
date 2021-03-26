@@ -3,4 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: terracota - relentless engineering
 ---
+This is my personal page about software engineering.
+
+Contents:
+
+- My personal experience.
+- Tech notes, practices, solutions that have been of good use to me, and I want to share just in case someone can benefit from.
