@@ -5,5 +5,12 @@ permalink: /cv/
 published: false
 ---
 
-<!-- TODO -->
-CV.
+<!-- TODO CV link (pdf from contents in website) -->
+
+## Experience
+
+## Education
+
+## Skills
+
+## Projects
