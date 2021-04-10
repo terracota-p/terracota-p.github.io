@@ -73,13 +73,13 @@ Tech: typescript, javascript, node, express, react, redux, mongodb, REST, JWT au
 
 ### Orwell Group
 
-- API products and Integration tests.
 - Registration, Product, Contract, Customer, Payments, AML and other microservices.
-- Payments service for FPS, CHAPS, internal account transfers – common interface for payment initiation, indexing and searching (REST, solr, kafka, java, spring boot, storm, cucumber).
-- PSD2 / OpenBanking PISP and ASPSP solutions, OAuth2 (REST, apigee API Gateway, lambdas, java, node, integrations with PingID and AWS Cognito).
-- Distributed payment gateway network: communication using REST, gossip protocol and reactive streams for payment distribution, data exchange, and discovery (spring boot, kafka, rocksdb).
+- Refactor from a [ball of mud](https://en.wikipedia.org/wiki/Big_ball_of_mud) (entangled microservices hell) to loosely coupled microservices.
+- Payments service for FPS, CHAPS, internal account transfers – common interface for payment initiation, indexing and searching.
+- PSD2 / OpenBanking PISP and ASPSP solutions, OAuth2 (integrations with PingID and AWS Cognito).
+- Distributed payment gateway network: communication using REST, gossip protocol and reactive streams for payment distribution, data exchange, and discovery.
 
-Tech: java, javascript, node, cucumber, REST, apigee, AWS API Gateway, k8s, spring boot, mariadb, cassandra, kafka-streams, CI/CD.
+Tech: java, javascript, node, cucumber, REST, apigee, AWS API Gateway, k8s, AWS lambdas, spring boot, mariadb, cassandra, kafka, kafka-streams, CICD, solr, storm.
 
 ### Evolution Invest
 
