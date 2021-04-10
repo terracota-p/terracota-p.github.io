@@ -18,7 +18,7 @@ KISS, BDD, TDD, test pyramid, clean code, clean architecture, functional program
 
 ## Practices
 
-User story writing (with acceptance criteria), acceptance tests, unit tests, CICD, config externalization, refactor, loosely coupled services, stateless processes, immutability, pure functions, monitoring & alerting, scrum, PR code review process, trunk-based development (with frequent, small PRs), OOP, streams, reactive, event-driven...
+User story writing, acceptance tests, unit tests, CICD, config externalization, refactor, loosely coupled services, stateless processes, immutability, pure functions, monitoring & alerting, scrum, PR code review process, trunk-based development, OOP, streams, reactive, event-driven...
 
 Fight antipatterns: DB integration, shared domain logic across microservices, overengineering.
 
