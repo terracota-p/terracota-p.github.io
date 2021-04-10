@@ -55,6 +55,7 @@ plugins:
 #   - vendor/ruby/
 
 header_pages:
+  - experience.md
   - skills.md
   - projects.md
   - cv.md
