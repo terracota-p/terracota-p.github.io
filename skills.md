@@ -14,11 +14,11 @@ Content summary:
 
 ## Principles
 
-KISS, BDD, TDD, test pyramid, clean code, clean architecture, functional programming, 12factor, agile, continuous improvement, continuous delivery, DDD.
+KISS, BDD, TDD, test pyramid, clean code, clean architecture, functional programming, 12factor, agile, continuous improvement, continuous delivery, DDD, keep learning.
 
 ## Practices
 
-User story writing, acceptance tests, unit tests, CICD, config externalization, refactor, loosely coupled services, stateless processes, immutability, pure functions, monitoring & alerting, scrum, PR code review process, trunk-based development, OOP, streams, reactive, event-driven...
+User story writing, acceptance tests, unit tests, CICD, config externalization, refactor, loosely coupled services, stateless processes, immutability, pure functions, monitoring & alerting, scrum, PR code reviews, trunk-based development, OOP, streams, reactive, event-driven...
 
 Fight antipatterns: DB integration, shared domain logic across microservices, overengineering.
 
