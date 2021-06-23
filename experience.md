@@ -12,7 +12,7 @@ permalink: /experience/
 
 Medical platform for recovering from, preparing for, and preventing musculoskeletal surgeries.
 
-new feature sets, scale, containerize, migrate to k8s, test overhaul, introduce BDD, continuous improvement, best practices, CICD, monitoring & alerting, agile.
+Migration to k8s. Introduced BDD and agile. Set up monitoring & alerting. Reduced CICD pipeline time from >1h to 20 min. TODO...
 
 Tech: js/ts, node, cucumber, docker, k8s, mongo.
 
