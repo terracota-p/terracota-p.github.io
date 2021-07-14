@@ -36,4 +36,10 @@ agile+++, devops-culture+++, teamwork+++, tech-lead+++
 
 ## Bibliography
 
-TODO recommended readings.
+Recommended readings:
+
+- _Continuous Delivery (Jez Humble, David Farley)_
+- _Building Microservices (Sam Newman)_
+- _Domain Driven Design distilled (Vaughn Vernon)_
+- _Domain Driven Design (Eric Evans)_
+- _Kafka Streams in action (William P. Bejeck Jr.)_
