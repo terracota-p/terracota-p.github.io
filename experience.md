@@ -4,42 +4,45 @@ title: Experience
 permalink: /experience/
 ---
 
-<!-- TODO -->
-
 ## Work
 
 ### 2020-present - Senior engineer @ PeerWell (remote, US)
 
 Medical platform for recovering from, preparing for, and preventing musculoskeletal surgeries.
 
-Migration to k8s. Introduced BDD and agile. Set up monitoring & alerting. Reduced CICD pipeline time from >1h to 20 min. TODO...
+[Key contributions](/retrospective/2021/07/14/year-retrospective.html):
+
+- Speed up CICD pipeline **from >1h to ~18min**
+- New microservices, including service boundaries following DDD approach
+- Big refactors like:
+  - Replace problematic queue with **crash-proof eventual consistency**
+  - Move **from coffeescript to js** to use best-of-breed tools
+- **Partner API** - a pull-only API for automatic integration of corporate systems with PeerWell
+- **OAuth2** client credentials grant, **A2A** auth schema with PKI
+- Introduced **BDD**, **TDD**, **agile**, contract-first **openapi** spec
+- Promoted [**continuous delivery**](https://continuousdelivery.com/) and [**trunk based development**](https://trunkbaseddevelopment.com/)
+- **Monitoring & alerting**
+- **K8s migration** - Refactor apps as per [12factor](https://12factor.net/) principles for scalability and maintainability (eg: stateless services with externalized config)
+- Solved some **hard to diagnose bugs and system issues** involving many software components
+- **Dashboard 2** - For workerscomp corporate and care team users
+- **Patients self registration**
 
 Tech: js/ts, node, cucumber, docker, k8s, mongo.
 
-### 2018-2020 - Principal engineer @ Orwell Group (remote, UK)
+### 2017-2020 - Senior, then Principal engineer @ Orwell Group (remote, UK)
 
 Banking core platform.
 
-development of core banking functionalities involving customer data management, payment processing, APIs
-microservices overhaul, migrate to k8s
-TODO ...
+Key contributions: development of core banking functionalities involving customer data management, payment processing, APIs
+microservices overhaul, migrate to k8s...
 
 Tech: java, storm, docker, k8s, cassandra, mariadb.
-
-### 2017-2018 - Senior engineer @ Orwell Group (remote, UK)
-
-Banking core platform.
-
-TODO...
-
-Tech: java, storm, cassandra, mariadb.
 
 ### 2015-2017 - Development team leader @ Acotel / Exceltia (Spain)
 
 B2B, C2B financial integration system and saas.
 
-development team lead, inter-team coordination
-TODO...
+Key contributions: development team lead, inter-team coordination.
 
 Tech: java, oracle.
 
