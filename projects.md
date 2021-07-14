@@ -36,7 +36,7 @@ New system for creating and publishing medical programs and define rules for con
   - Enable author portal content management.
   - OAuth2 (JWT).
 
-Tech: typescript, node, cucumber, jest, docker, k8s, oauth2, jwt, mongodb, express, nestjs, mongoose, jenkins.
+Tech: ts, node, cucumber, jest, docker, k8s, oauth2, jwt, mongodb, express, nestjs, mongoose, jenkins.
 
 #### Identity management - OAuth2 server
 
@@ -45,7 +45,7 @@ OAuth2-capable authentication and authorization server, as platform-wide identit
 - API:
   - `POST /token` endpoint that returns a signed JWT bearer token (following OAuth2 delegated authentication model) including role, that other services can use to verify authentication & authorization by just checking signature and claims contained in token (no per-authentication call to auth server needed).
 
-Tech: javascript, node, cucumber, mocha, docker, k8s, oauth2, jwt, mongodb, express, jenkins.
+Tech: js, node, cucumber, mocha, docker, k8s, oauth2, jwt, mongodb, express, jenkins.
 
 #### Partner API
 
@@ -55,19 +55,19 @@ Integrate Partner systems with PeerWell in an automated way.
 - Get valuable medical and compliance data collected in the process, to help the care team take better decisions.
 - Register the decisions to release patients when recovered.
 
-Tech: javascript, node, cucumber, mocha, docker, k8s, oauth2, jwt, mongodb, express, jenkins.
+Tech: js, node, cucumber, mocha, docker, k8s, oauth2, jwt, mongodb, express, jenkins.
 
 #### Dashboard v2
 
 Backoffice portal and API overhaul for partner users and admins.
 
-Tech: javascript, node, react, redux, mocha.
+Tech: js, node, react, redux, mocha.
 
 ### Personal
 
 [kanban board](https://bs-kanban-board.herokuapp.com/), [web RPG (in construction)](https://github.com/terracota-p/bs-tabletop-rpg).
 
-Tech: typescript, javascript, node, express, react, redux, mongodb, REST, JWT auth.
+Tech: ts, js, node, express, react, redux, mongodb, REST, JWT.
 
 ## Previous work
 
@@ -79,7 +79,7 @@ Tech: typescript, javascript, node, express, react, redux, mongodb, REST, JWT au
 - PSD2 / OpenBanking PISP and ASPSP solutions, OAuth2 (integrations with PingID and AWS Cognito).
 - Distributed payment gateway network: communication using REST, gossip protocol and reactive streams for payment distribution, data exchange, and discovery.
 
-Tech: java, javascript, node, cucumber, REST, apigee, AWS API Gateway, k8s, AWS lambdas, spring boot, mariadb, cassandra, kafka, kafka-streams, CICD, solr, storm.
+Tech: java, js, node, cucumber, REST, apigee, AWS API Gateway, k8s, AWS lambdas, spring boot, mariadb, cassandra, kafka, kafka-streams, CICD, solr, storm.
 
 ### Evolution Invest
 
