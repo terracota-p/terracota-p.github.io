@@ -4,7 +4,7 @@ title: Skills
 permalink: /skills/
 ---
 
-Content summary:
+Content:
 
 - [Principles](#principles)
 - [Practices](#practices)

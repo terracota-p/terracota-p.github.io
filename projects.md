@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-Content summary:
+Content:
 
 - [Recent work](#recent-work)
   - [PeerWell](#peerwell)

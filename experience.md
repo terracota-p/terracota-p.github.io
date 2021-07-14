@@ -4,7 +4,18 @@ title: Experience
 permalink: /experience/
 ---
 
+Content:
+
+- [Work](#work)
+  - [2020-present - Senior engineer @ PeerWell (remote, US)](#2020-present---senior-engineer--peerwell-remote-us)
+  - [2017-2020 - Senior, then Principal engineer @ Orwell Group (remote, UK)](#2017-2020---senior-then-principal-engineer--orwell-group-remote-uk)
+  - [2015-2017 - Development team leader @ Acotel / Exceltia (Spain)](#2015-2017---development-team-leader--acotel--exceltia-spain)
+- [Education](#education)
+  - [2006 - Computer science engineer (Bachelor's degree)](#2006---computer-science-engineer-bachelors-degree)
+
 ## Work
+
+Recent experience.
 
 ### 2020-present - Senior engineer @ PeerWell (remote, US)
 
