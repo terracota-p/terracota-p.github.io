@@ -10,7 +10,7 @@ Content:
 - [Practices](#practices)
 - [Tech](#tech)
 - [Soft](#soft)
-- [Bibliography](#bibliography)
+- [Recommended readings](#recommended-readings)
 
 ## Principles
 
@@ -34,12 +34,13 @@ Databases: mongodb, mariadb/mysql, oracle, postgres, cassandra
 
 agile+++, devops-culture+++, teamwork+++, tech-lead+++
 
-## Bibliography
+## Recommended readings
 
-Recommended readings:
+Books that deeply influenced the way I do software engineering:
 
-- _Continuous Delivery (Jez Humble, David Farley)_
 - _Building Microservices (Sam Newman)_
+- _Clean Code (Robert C. Martin)_
+- _Clean Architecture (Robert C. Martin)_
+- _Continuous Delivery (Jez Humble, David Farley)_
 - _Domain Driven Design distilled (Vaughn Vernon)_
 - _Domain Driven Design (Eric Evans)_
-- _Kafka Streams in action (William P. Bejeck Jr.)_
