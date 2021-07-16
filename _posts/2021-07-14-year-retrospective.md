@@ -34,7 +34,8 @@ Some things I contributed that I remember and am proud of (in no particular orde
 
 Gained experience in:
 
-- js and ts
+- js and ts, FP, clean code and architecture
+- eventual consistency, DDD
 - k8s
 - CICD with jenkins
 - Monitoring & alerting
