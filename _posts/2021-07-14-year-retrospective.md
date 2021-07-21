@@ -53,4 +53,4 @@ Things that I’d like to improve:
 - Frontend - I’d like to do more
 - GraphQL
 - Personal projects - Find a little time to move them forward
-- Haven’t read much CS books this year, just some parts of _Composing Software (Eric Elliott)_ and _Agile Coaching (Rachel Davies)_ - Though I’m glad I’ve been heavily applying concepts from previous readings like _Continuous Delivery (Jez Humble)_ or _Building Microservices (Sam Newman)_
+- Haven’t read much CS of books this year, just some parts of _Composing Software (Eric Elliott)_ and _Agile Coaching (Rachel Davies)_ - Though I’m glad I’ve been heavily applying concepts from previous readings like _Continuous Delivery (Jez Humble)_, _Building Microservices (Sam Newman)_ or _Clean Architecture (Robert C. Martin)_.
