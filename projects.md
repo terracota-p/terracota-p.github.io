@@ -8,6 +8,7 @@ Content:
 
 - [Recent work](#recent-work)
   - [PeerWell](#peerwell)
+    - [PeerWell Health](#peerwell-health)
     - [Medical programs v2 - Content management and delivery](#medical-programs-v2---content-management-and-delivery)
     - [Identity management - OAuth2 server](#identity-management---oauth2-server)
     - [Partner API](#partner-api)
@@ -24,6 +25,14 @@ Content:
 ### PeerWell
 
 See <https://www.peerwell.co/>
+
+#### PeerWell Health
+
+Features to support PeerWell health provider in California, including:
+
+- Patients self-registration, uploading insurance card pics
+- EHR integration: sync patients information with _Athena_ Electronic Health Records APIs
+- Extend patients management: switch program, partner
 
 #### Medical programs v2 - Content management and delivery
 
