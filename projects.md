@@ -16,7 +16,6 @@ Content:
   - [Personal](#personal)
 - [Previous work](#previous-work)
   - [Orwell Group](#orwell-group)
-  - [Evolution Invest](#evolution-invest)
   - [Enel Group](#enel-group)
   - [Acotel](#acotel)
 
@@ -76,34 +75,34 @@ Tech: ts, js, node, express, react, redux, mongodb, REST, jwt.
 
 ### Orwell Group
 
+Banking platform:
+
+- In-team and across-teams software engineering lead.
 - Registration, Product, Contract, Customer, Payments, AML and other microservices.
 - Refactor from a [ball of mud](https://en.wikipedia.org/wiki/Big_ball_of_mud) (entangled microservices hell) to loosely coupled microservices.
 - Payments service for FPS, CHAPS, internal account transfers – common interface for payment initiation, indexing and searching.
 - PSD2 / OpenBanking PISP and ASPSP solutions, OAuth2 (integrations with PingID and AWS Cognito).
 - Distributed payment gateway network: communication using REST, gossip protocol and reactive streams for payment distribution, data exchange, and discovery.
-
-Tech: java, js, node, cucumber, REST, apigee, AWS API Gateway, k8s, AWS lambdas, spring boot, mariadb, cassandra, kafka, kafka-streams, CICD, solr, storm.
-
-### Evolution Invest
-
 - Infrastructure as code: CICD, EKS, application-supporting environments.
 
-Tech: terraform, ansible, packer, python, AWS, jenkins, jira, artifactory, k8s.
+Tech: java, js, node, cucumber, REST, apigee, k8s, AWS, AWS API Gateway, AWS lambdas, spring boot, mariadb, cassandra, kafka, kafka-streams, CICD, solr, storm, jenkins, artifactory.
 
 ### Enel Group
 
-- E2Bank Enel-to-Bank customized integration product
-  - Global implementation project E4E
-  - Full SAP to E2Bank migration
-  - Redefinition of all banking flows (payments, statements, direct debits)
-  - Architecture definition, analysis, version planning, dev team lead.
+E2Bank - Enel-to-Bank customized financial integration product:
+
+- Architecture definition, analysis, version planning, dev team lead.
+- Global implementation project E4E.
+- Full SAP to E2Bank migration.
+- Redefinition of all banking flows (payments, statements, direct debits).
 
 Tech: java ecosystem, oracle DB.
 
 ### Acotel
 
-- SB Enterprise-to-Bank integration product for Service Bureau (SaaS) and in-house deployment
-  - From inception to several years in production: architecture definition, analysis, version planning, dev team lead
-  - Integrations for big clients like Abertis Autopistas, Iberdrola, Iberdrola USA, Grifols, Puig, Desigual...
+SB - Enterprise-to-Bank financial integration product for Service Bureau (SaaS) and in-house deployment:
+
+- From inception to several years in production: architecture definition, analysis, version planning, dev team lead.
+- Integrations for big clients like Abertis Autopistas, Iberdrola, Iberdrola USA, Grifols, Puig, Desigual...
 
 Tech: java ecosystem, oracle DB.
