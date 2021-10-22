@@ -26,6 +26,8 @@ Content:
 
 See <https://www.peerwell.co/>
 
+Tech: ts, js, node, cucumber, jest, mocha, docker, k8s, REST, oauth2, jwt, mongodb, express, nestjs, mongoose, react, redux, jenkins.
+
 #### PeerWell Health
 
 Features to support establishing PeerWell health provider in California, including:
@@ -45,16 +47,12 @@ New system for creating and publishing medical programs and define rules for con
   - Enable author portal content management.
   - OAuth2 (JWT).
 
-Tech: ts, node, cucumber, jest, docker, k8s, oauth2, jwt, mongodb, express, nestjs, mongoose, jenkins.
-
 #### Identity management - OAuth2 server
 
 OAuth2-capable authentication and authorization server, as platform-wide identity-management system.
 
 - API:
   - `POST /token` endpoint that returns a signed JWT bearer token (following OAuth2 delegated authentication model) including role, that other services can use to verify authentication & authorization by just checking signature and claims contained in token (no per-authentication call to auth server needed).
-
-Tech: js, node, cucumber, mocha, docker, k8s, oauth2, jwt, mongodb, express, jenkins.
 
 #### Partner API
 
@@ -64,19 +62,15 @@ Integrate Partner systems with PeerWell in an automated way.
 - Get valuable medical and compliance data collected in the process, to help the care team take better decisions.
 - Register the decisions to release patients when recovered.
 
-Tech: js, node, cucumber, mocha, docker, k8s, oauth2, jwt, mongodb, express, jenkins.
-
 #### Dashboard v2
 
 Backoffice portal and API overhaul for partner users and admins.
-
-Tech: js, node, react, redux, mocha.
 
 ### Personal
 
 [kanban board](https://bs-kanban-board.herokuapp.com/), [web RPG (in construction)](https://github.com/terracota-p/bs-tabletop-rpg).
 
-Tech: ts, js, node, express, react, redux, mongodb, REST, JWT.
+Tech: ts, js, node, express, react, redux, mongodb, REST, jwt.
 
 ## Previous work
 
