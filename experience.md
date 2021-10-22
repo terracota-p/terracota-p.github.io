@@ -37,8 +37,7 @@ Medical platform for recovering from, preparing for, and preventing musculoskele
 - Solved some **hard to diagnose bugs and system issues** involving many software components
 - Epics like:
   - **Dashboard 2** (for workerscomp corporate and care team users)
-  - **Patients self registration**
-  - **EHR integration** (Sync patients information with Athena Electronic Health Records APIs)
+  - **PeerWell Health** (support establishing PeerWell health provider in California)
 
 Tech: js/ts, node, cucumber, docker, k8s, mongo, jenkins, datadog.
 

@@ -28,7 +28,7 @@ See <https://www.peerwell.co/>
 
 #### PeerWell Health
 
-Features to support PeerWell health provider in California, including:
+Features to support establishing PeerWell health provider in California, including:
 
 - Patients self-registration, uploading insurance card pics
 - EHR integration: sync patients information with _Athena_ Electronic Health Records APIs
