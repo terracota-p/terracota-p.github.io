@@ -3,4 +3,4 @@ layout: home
 title: terracota - relentless engineering
 ---
 
-This is my personal page about software engineering, basically detailing my experience.
+This is my personal page about software engineering, basically detailing my [experience](/experience/), and very rarely writing some blog post.
