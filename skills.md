@@ -26,7 +26,7 @@ Fight antipatterns: DB integration, shared domain logic across microservices, ov
 
 <!-- XXX replace pluses with stars? -->
 
-js/ts/node+++, java+++, cucumber+++, jest/junit/etc+++, docker+++, k8s+++, REST+++, openapi+++, sql+++, nosql+++, jenkins+++, terraform++, ansible+, packer+, aws++, express+++, spring+++, react++, redux++, bash++, python+, go+
+js/ts/node+++, java+++, cucumber+++, jest/junit/etc+++, docker+++, k8s+++, REST+++, openapi+++, sql+++, nosql+++, jenkins+++, terraform++, ansible+, packer+, aws++, express+++, spring+++, react++, redux++, bash++, python++, go+
 
 Databases: mongodb, mariadb/mysql, oracle, postgres, cassandra
 
