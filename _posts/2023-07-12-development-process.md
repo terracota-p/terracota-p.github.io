@@ -5,7 +5,7 @@ date: 2023-07-12
 categories: SDLC
 ---
 
-In my experience, this is a nice and lean development process.
+A nice and lean development process, in my experience.
 
 - Related to [CICD, continuous delivery](/sdlc/2023/06/30/cicd.html) (previous article).
 - Based on agile (scrum), BDD, continuous delivery, trunk-based development; as described below.
