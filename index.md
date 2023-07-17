@@ -1,6 +1,6 @@
 ---
 layout: home
-title: terracota - software engineer
+title: Software engineering
 ---
 
-This is my personal page about software engineering, basically detailing my [experience](/experience/), and very rarely writing a blog post.
+This is my personal page about software engineering, including my [experience](/experience/), and very rarely writing a blog post.
