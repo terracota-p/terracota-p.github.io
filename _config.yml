@@ -64,3 +64,5 @@ header_pages:
 author:
   name: Carlos Frias
   email: terracotapz@gmail.com
+
+show_excerpts: true
