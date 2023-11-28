@@ -20,19 +20,17 @@ KISS, BDD, TDD, test pyramid, clean code, clean architecture, functional program
 
 User story writing, acceptance tests, unit tests, CICD, config externalization, refactor, loosely coupled services, stateless processes, immutability, pure functions, monitoring & alerting, scrum, PR code reviews, trunk-based development, OOP, streams, reactive, event-driven...
 
-Fight antipatterns: DB integration, shared domain logic across microservices, overengineering.
+Fight anti-patterns: DB integration, shared domain logic across microservices, over-engineering.
 
 ## Tech
 
-<!-- XXX replace pluses with stars? -->
+js/ts/node, jest/mocha/playwright/cypress/cucumber/..., docker, k8s, REST, openapi, sql, nosql, jenkins, github actions, terraform, aws, express, react, remix, svelte, redux, python, c#, java, go
 
-js/ts/node+++, java+++, cucumber+++, jest/junit/etc+++, docker+++, k8s+++, REST+++, openapi+++, sql+++, nosql+++, jenkins+++, terraform++, ansible+, packer+, aws++, express+++, spring+++, react++, redux++, bash++, python++, go+
-
-Databases: mongodb, mariadb/mysql, oracle, postgres, cassandra
+DBs: mongodb, mariadb/mysql, postgres...
 
 ## Soft
 
-agile+++, devops-culture+++, teamwork+++, tech-lead+++
+agile, devops-culture, teamwork, tech-lead
 
 ## Recommended readings
 
