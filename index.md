@@ -1,6 +1,8 @@
 ---
 layout: home
-title: Software engineering
+title: Software
 ---
 
-This is my personal page about software engineering, including my [experience](/experience/), and very rarely writing a blog post.
+This is my personal page about software engineering, including my [experience](/experience/), and quite rarely a blog post.
+
+## Blog entries
