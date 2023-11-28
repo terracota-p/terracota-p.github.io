@@ -34,6 +34,7 @@ Workplace injury prevention remarkable undertakings:
 
 - New dashboard combining data from task assessments and movement reports
 - Rebrand Preventure apps to Bardavon, redesign
+- Care Management Portal (inherited) go-live
 - Monitoring & alerting
 - SOC2 audit
 
