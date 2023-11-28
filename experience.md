@@ -7,7 +7,8 @@ permalink: /experience/
 Content:
 
 - [Work](#work)
-  - [2020-present - Senior, then Lead engineer @ PeerWell (remote, US)](#2020-present---senior-then-lead-engineer--peerwell-remote-us)
+  - [2022-present - Lead software engineer, Architect @ Bardavon (remote, US)](#2022-present---lead-software-engineer-architect--bardavon-remote-us)
+  - [2020-2022 - Senior, then Lead engineer @ PeerWell (remote, US)](#2020-2022---senior-then-lead-engineer--peerwell-remote-us)
   - [2017-2020 - Senior, then Principal engineer @ Orwell Group (remote, UK)](#2017-2020---senior-then-principal-engineer--orwell-group-remote-uk)
   - [2015-2017 - Development team leader @ Acotel / Exceltia (Spain)](#2015-2017---development-team-leader--acotel--exceltia-spain)
 - [Education](#education)
@@ -17,7 +18,27 @@ Content:
 
 Recent experience.
 
-### 2020-present - Senior, then Lead engineer @ [PeerWell](https://www.peerwell.co/) (remote, US)
+### 2022-present - Lead software engineer, Architect @ [Bardavon](https://www.bardavon.com/) (remote, US)
+
+In 2022, PeerWell was acquired by Bardavon. After some months, I eventually switched team, where I became completely **fullstack** and also grew other skills. Now I'm working with teammates across US, AU, as:
+
+- Prevention **development team lead**. We do API, web, mobile and serverless development.
+- Part of company-wide **Architecture council** (comprised of 3 people). We share, promote best practices cross-teams.
+
+Key contributions and tech:
+
+- **Backend** services: ts, c#, python.
+- **Web** applications: ts, react, remix (SSR).
+- **Mobile** app: flutter (ios + android).
+- **Monitoring & alerting** setup.
+- **CICD**: github actions.
+- Serverless: aws lambdas.
+- IaC: tf, aws.
+- Cloud environments: aws, gcloud.
+
+Kept promoting my foundational **principles**, dramatically improving development processes and being transformational for the company: BDD, TDD, continuous delivery, devops...
+
+### 2020-2022 - Senior, then Lead engineer @ [PeerWell](https://www.peerwell.co) (remote, US)
 
 Medical platform for recovering from, preparing for, and preventing musculoskeletal surgeries.
 
