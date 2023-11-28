@@ -35,6 +35,7 @@ Workplace injury prevention remarkable undertakings:
 - New dashboard combining data from task assessments and movement reports
 - Rebrand Preventure apps to Bardavon, redesign
 - Monitoring & alerting
+- SOC2 audit
 
 Tech; ts, c#, python, react, remix (SSR), flutter, github actions, tf, postgresql, mongodb, google cloud run, aws lambdas.
 
