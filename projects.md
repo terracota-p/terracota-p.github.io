@@ -7,19 +7,42 @@ permalink: /projects/
 Content:
 
 - [Recent work](#recent-work)
+  - [Bardavon](#bardavon)
+    - [Prevention](#prevention)
+  - [Personal - 2023](#personal---2023)
   - [PeerWell](#peerwell)
     - [PeerWell Health](#peerwell-health)
     - [Medical programs v2 - Content management and delivery](#medical-programs-v2---content-management-and-delivery)
     - [Identity management - OAuth2 server](#identity-management---oauth2-server)
     - [Partner API](#partner-api)
     - [Dashboard v2](#dashboard-v2)
-  - [Personal](#personal)
+  - [Personal - 2021](#personal---2021)
 - [Previous work](#previous-work)
   - [Orwell Group](#orwell-group)
   - [Enel Group](#enel-group)
   - [Acotel](#acotel)
 
 ## Recent work
+
+### Bardavon
+
+See <https://www.bardavon.com/>
+
+#### Prevention
+
+Workplace injury prevention remarkable undertakings:
+
+- New dashboard combining data from task assessments and movement reports
+- Rebrand Preventure apps to Bardavon, redesign
+- Monitoring & alerting
+
+Tech; ts, c#, python, react, remix (SSR), flutter, github actions, tf, postgresql, mongodb, google cloud run, aws lambdas.
+
+### Personal - 2023
+
+[Svelte playground](https://github.com/terracota-p/val-birthday).
+
+Tech: ts, svelte, css, vercel-kv.
 
 ### PeerWell
 
@@ -65,7 +88,7 @@ Integrate Partner systems with PeerWell in an automated way.
 
 Backoffice portal and API overhaul for partner users and admins.
 
-### Personal
+### Personal - 2021
 
 [kanban board](https://bs-kanban-board.herokuapp.com/), [web RPG (in construction)](https://github.com/terracota-p/bs-tabletop-rpg).
 
