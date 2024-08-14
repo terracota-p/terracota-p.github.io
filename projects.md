@@ -32,13 +32,14 @@ See <https://www.bardavon.com/>
 
 Workplace injury prevention remarkable undertakings:
 
+- Prevention kiosk app
 - New dashboard combining data from task assessments and movement reports
 - Rebrand Preventure apps to Bardavon, redesign
 - Care Management Portal (inherited) go-live
 - Monitoring & alerting
 - SOC2 audit
 
-Tech; ts, c#, python, react, remix (SSR), flutter, github actions, tf, postgresql, mongodb, google cloud run, aws lambdas.
+Tech; ts, c#, python, react, remix (SSR), kotlin, android, flutter, github actions, tf, postgresql, mongodb, google cloud run, aws lambdas.
 
 ### Personal - 2023
 

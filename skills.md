@@ -18,19 +18,23 @@ KISS, BDD, TDD, test pyramid, clean code, clean architecture, functional program
 
 ## Practices
 
-User story writing, acceptance tests, unit tests, CICD, config externalization, refactor, loosely coupled services, stateless processes, immutability, pure functions, monitoring & alerting, scrum, PR code reviews, trunk-based development, OOP, streams, reactive, event-driven...
+FP, OOP, definition by example, unit tests, CICD, config externalization, refactor, loosely coupled services, stateless processes, immutability, pure functions, monitoring & alerting, scrum, PR code reviews, trunk-based development, streams, reactive, event-driven...
 
 Fight anti-patterns: DB integration, shared domain logic across microservices, over-engineering.
 
 ## Tech
 
-js/ts/node, jest/mocha/playwright/cypress/cucumber/..., docker, k8s, REST, openapi, sql, nosql, jenkins, github actions, terraform, aws, express, react, remix, svelte, redux, python, c#, java, go
+Fullstack: backend, web, mobile (android, fluter).
 
-DBs: mongodb, mariadb/mysql, postgres...
+Languages: js/ts/node, kotlin, flutter, python, c#, java, go...
+
+Other tools: jest/mocha/playwright/cypress/cucumber/..., docker, k8s, REST, openapi, jenkins, github actions, terraform, aws, express, react, redux, nextjs, remix...
+
+DBs: sql, nosql - eg: mongodb, mariadb/mysql, postgres...
 
 ## Soft
 
-agile, devops-culture, teamwork, tech-lead
+Agile, devops-culture, teamwork, tech-lead.
 
 ## Recommended readings
 
