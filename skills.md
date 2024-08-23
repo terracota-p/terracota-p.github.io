@@ -6,11 +6,25 @@ permalink: /skills/
 
 Content:
 
+- [Key aspects](#key-aspects)
 - [Principles](#principles)
 - [Practices](#practices)
 - [Tech](#tech)
 - [Soft](#soft)
 - [Recommended readings](#recommended-readings)
+
+## Key aspects
+
+Can do. Can take up any project, at any stage of development, with a wholistic approach.
+
+Proven record throughout my career:
+
+- Lead greenfield products and teams from their beginning.
+- Brought order and efficiency to existing teams and codebases, even those having issues.
+- Improved code, systems, processes.
+- Solo or leading one or more teams.
+- Full-stack: server, client, mobile.
+- Polyglot: experience in many languages, can quickly learn and deliver in any new one.
 
 ## Principles
 
