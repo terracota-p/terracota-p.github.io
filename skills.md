@@ -19,7 +19,7 @@ Can do. Can take up any project, at any stage of development, with a holistic ap
 
 Proven record throughout my career:
 
-- Lead greenfield products and teams from their beginning.
+- Led greenfield products and teams from their beginning.
 - Brought order and efficiency to existing teams and codebases, even those having issues.
 - Improved code, systems, processes.
 - Delivered solutions solo or leading one or more teams.
