@@ -22,7 +22,7 @@ Proven record throughout my career:
 - Lead greenfield products and teams from their beginning.
 - Brought order and efficiency to existing teams and codebases, even those having issues.
 - Improved code, systems, processes.
-- Solo or leading one or more teams.
+- Delivered solutions solo or leading one or more teams.
 - Full-stack: server, client, mobile.
 - Polyglot: experience in many languages, can quickly learn and deliver in any new one.
 
