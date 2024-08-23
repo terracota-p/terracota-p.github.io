@@ -15,7 +15,7 @@ Content:
 
 ## Key aspects
 
-Can do. Can take up any project, at any stage of development, with a wholistic approach.
+Can do. Can take up any project, at any stage of development, with a holistic approach.
 
 Proven record throughout my career:
 
