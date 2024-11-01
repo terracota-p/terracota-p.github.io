@@ -8,7 +8,7 @@ Content:
 
 - [Work](#work)
   - [2022-present - Lead software engineer, Architect @ Bardavon (remote, US)](#2022-present---lead-software-engineer-architect--bardavon-remote-us)
-  - [2020-2022 - Senior, then Lead engineer @ PeerWell (remote, US)](#2020-2022---senior-then-lead-engineer--peerwell-remote-us)
+  - [2020-2022 - Lead software engineer @ PeerWell (remote, US)](#2020-2022---lead-software-engineer--peerwell-remote-us)
   - [2017-2020 - Senior, then Principal engineer @ Orwell Group (remote, UK)](#2017-2020---senior-then-principal-engineer--orwell-group-remote-uk)
   - [2015-2017 - Development team leader @ Acotel / Exceltia (Spain)](#2015-2017---development-team-leader--acotel--exceltia-spain)
 - [Education](#education)
@@ -38,7 +38,7 @@ Key contributions and tech:
 
 Kept promoting my foundational **principles**, dramatically improving development processes and being transformational for the company: BDD, TDD, continuous delivery, devops...
 
-### 2020-2022 - Senior, then Lead engineer @ [PeerWell](https://www.peerwell.co) (remote, US)
+### 2020-2022 - Lead software engineer @ [PeerWell](https://www.peerwell.co) (remote, US)
 
 Medical platform for recovering from, preparing for, and preventing musculoskeletal surgeries.
 
